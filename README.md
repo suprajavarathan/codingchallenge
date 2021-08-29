@@ -9,12 +9,11 @@ Browse using relative path of the file in jupiter notebook and open the CodingCh
 
 Run the the script by using shift + Enter key
 
-TEST RESULTS
+<h3>TEST RESULTS</h3>
 
 The python code has been saved as notebook which shows the output of the the execution
 
-Assumptions/Tradeoffs
----------------------
+<h3>Assumptions/Tradeoffs</h3>
 
 1. Hashkey is created based on the combination of AccountId and Fibre columns to uniquely identify the records
 2. String column $ Amount is coverted to "float" for calculation purpose
@@ -29,7 +28,7 @@ Assumptions/Tradeoffs
 9. Class Fast_response provides the list of Top Agents based on post code and the $ Amount
 10. When finding the Top Agents negative amount is also considered (as minimum loss) for that postcode
  
- Diagrammatic representation of the flow
+ <h3>Diagrammatic representation of the flow</h3>
  
  ![image](https://user-images.githubusercontent.com/36745871/131251233-d7735094-228b-4240-9e96-3ea11307260e.png)
 
