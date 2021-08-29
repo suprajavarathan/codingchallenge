@@ -29,3 +29,9 @@ Assumptions/Tradeoffs
 9. Class Fast_response provides the list of Top Agents based on post code and the $ Amount
 10. When finding the Top Agents negative amount is also considered (as minimum loss) for that postcode
  
+ Diagrammatic representation of the flow
+ 
+ ![image](https://user-images.githubusercontent.com/36745871/131251233-d7735094-228b-4240-9e96-3ea11307260e.png)
+
+ 
+ 
